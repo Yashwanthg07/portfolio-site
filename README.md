@@ -111,11 +111,3 @@ Feel free to reach out!
 * Portfolio: [https://portfolio-sigma-ruddy-63.vercel.app/](https://yashwanth-portfolio-site.vercel.app/)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the **MIT License**.
-
-```
-
-[1]: https://github.com/Yashwanthg07/portfolio-site "GitHub - Yashwanthg07/portfolio-site"
